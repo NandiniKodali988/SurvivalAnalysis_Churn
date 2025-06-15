@@ -9,6 +9,8 @@ website:
       - href: "index.qmd"
         text: About Me
       - href: "DataPrep.ipynb"
+      - href: "EDA.ipynb"
+        text: EDA
 
 format: 
   html: 
