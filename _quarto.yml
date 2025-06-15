@@ -1,0 +1,16 @@
+project: 
+  type: website
+
+
+website: 
+  title: "Survival Analysis"
+  navbar: 
+    left: 
+      - href: "index.qmd"
+        text: About Me
+      - href: "DataPrep.ipynb"
+
+format: 
+  html: 
+    toc: true
+    code-fold: true
